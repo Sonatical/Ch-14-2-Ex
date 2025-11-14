@@ -1,0 +1,17 @@
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.frmCustomer.resources
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.AssemblyInfoInputs.cache
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.AssemblyInfo.cs
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\net7.0-windows\CustomerMaintenance.exe
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\net7.0-windows\CustomerMaintenance.deps.json
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\net7.0-windows\CustomerMaintenance.runtimeconfig.json
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\net7.0-windows\CustomerMaintenance.dll
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\net7.0-windows\CustomerMaintenance.pdb
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.dll
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\refint\CustomerMaintenance.dll
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.pdb
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.genruntimeconfig.cache
+C:\Users\CHilsgen1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\ref\CustomerMaintenance.dll
