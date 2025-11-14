@@ -26,7 +26,7 @@ namespace CustomerMaintenance
             }
         }
 
-        public void Save() => CustomerDB.SaveCustomers(customers);
+        public void Save() => CustomerDB.SaveCustomers(this);
 
         public new void Remove(Customer customer) 
         { 
@@ -48,3 +48,4 @@ namespace CustomerMaintenance
 
     }
 }
+
